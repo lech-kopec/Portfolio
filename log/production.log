@@ -1,0 +1,1206 @@
+Compiled application.js  (0ms)  (pid 7635)
+Compiled application.css  (0ms)  (pid 7635)
+Compiled application.js  (0ms)  (pid 7635)
+Compiled application.css  (0ms)  (pid 7635)
+Compiled application.js  (0ms)  (pid 8134)
+Compiled application.css  (0ms)  (pid 8134)
+Compiled application.js  (0ms)  (pid 8134)
+Compiled application.css  (0ms)  (pid 8134)
+Compiled application.js  (0ms)  (pid 9676)
+Compiled application.css  (0ms)  (pid 9676)
+Compiled application.js  (0ms)  (pid 9676)
+Compiled application.css  (0ms)  (pid 9676)
+Compiled application.js  (0ms)  (pid 10310)
+Compiled application.css  (0ms)  (pid 10310)
+Compiled application.js  (0ms)  (pid 10310)
+Compiled application.css  (0ms)  (pid 10310)
+Compiled application.js  (1ms)  (pid 14728)
+Compiled application.css  (0ms)  (pid 14728)
+Compiled application.js  (0ms)  (pid 14728)
+Compiled application.css  (0ms)  (pid 14728)
+Compiled jquery.js  (1ms)  (pid 13413)
+Compiled jquery_ujs.js  (0ms)  (pid 13413)
+Compiled bootstrap-transition.js  (0ms)  (pid 13413)
+Compiled bootstrap-affix.js  (0ms)  (pid 13413)
+Compiled bootstrap-alert.js  (0ms)  (pid 13413)
+Compiled bootstrap-button.js  (0ms)  (pid 13413)
+Compiled bootstrap-carousel.js  (0ms)  (pid 13413)
+Compiled bootstrap-collapse.js  (0ms)  (pid 13413)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 13413)
+Compiled bootstrap-modal.js  (0ms)  (pid 13413)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 13413)
+Compiled bootstrap-tab.js  (0ms)  (pid 13413)
+Compiled bootstrap-tooltip.js  (16ms)  (pid 13413)
+Compiled bootstrap-popover.js  (0ms)  (pid 13413)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 13413)
+Compiled bootstrap.js  (116ms)  (pid 13413)
+Compiled sessions.js  (410ms)  (pid 13413)
+Compiled static_pages.js  (112ms)  (pid 13413)
+Compiled users.js  (139ms)  (pid 13413)
+Compiled application.js  (920ms)  (pid 13413)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Compiled custom.css  (1951ms)  (pid 13413)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Compiled sessions.css  (1ms)  (pid 13413)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Compiled static_pages.css  (1ms)  (pid 13413)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x000000028b2868>
+Compiled users.css  (1ms)  (pid 13413)
+Compiled application.css  (1989ms)  (pid 13413)
+Compiled jquery.js  (1ms)  (pid 13413)
+Compiled jquery_ujs.js  (0ms)  (pid 13413)
+Compiled bootstrap-transition.js  (0ms)  (pid 13413)
+Compiled bootstrap-affix.js  (0ms)  (pid 13413)
+Compiled bootstrap-alert.js  (0ms)  (pid 13413)
+Compiled bootstrap-button.js  (0ms)  (pid 13413)
+Compiled bootstrap-carousel.js  (0ms)  (pid 13413)
+Compiled bootstrap-collapse.js  (0ms)  (pid 13413)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 13413)
+Compiled bootstrap-modal.js  (0ms)  (pid 13413)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 13413)
+Compiled bootstrap-tab.js  (0ms)  (pid 13413)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 13413)
+Compiled bootstrap-popover.js  (0ms)  (pid 13413)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 13413)
+Compiled bootstrap.js  (116ms)  (pid 13413)
+Compiled sessions.js  (116ms)  (pid 13413)
+Compiled static_pages.js  (100ms)  (pid 13413)
+Compiled users.js  (122ms)  (pid 13413)
+Compiled application.js  (493ms)  (pid 13413)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Compiled custom.css  (1578ms)  (pid 13413)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Compiled sessions.css  (1ms)  (pid 13413)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Compiled static_pages.css  (1ms)  (pid 13413)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x0000000330d830>
+Compiled users.css  (1ms)  (pid 13413)
+Compiled application.css  (1597ms)  (pid 13413)
+Compiled jquery.js  (3ms)  (pid 1860)
+Compiled jquery_ujs.js  (0ms)  (pid 1860)
+Compiled bootstrap-transition.js  (0ms)  (pid 1860)
+Compiled bootstrap-affix.js  (0ms)  (pid 1860)
+Compiled bootstrap-alert.js  (0ms)  (pid 1860)
+Compiled bootstrap-button.js  (0ms)  (pid 1860)
+Compiled bootstrap-carousel.js  (0ms)  (pid 1860)
+Compiled bootstrap-collapse.js  (0ms)  (pid 1860)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 1860)
+Compiled bootstrap-modal.js  (0ms)  (pid 1860)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 1860)
+Compiled bootstrap-tab.js  (0ms)  (pid 1860)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 1860)
+Compiled bootstrap-popover.js  (0ms)  (pid 1860)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 1860)
+Compiled bootstrap.js  (100ms)  (pid 1860)
+Compiled sessions.js  (421ms)  (pid 1860)
+Compiled static_pages.js  (129ms)  (pid 1860)
+Compiled users.js  (94ms)  (pid 1860)
+Compiled application.js  (907ms)  (pid 1860)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Compiled custom.css  (1793ms)  (pid 1860)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Compiled prod_returns.css  (11ms)  (pid 1860)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Compiled sessions.css  (1ms)  (pid 1860)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Compiled static_pages.css  (2ms)  (pid 1860)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x00000002283398>
+Compiled users.css  (2ms)  (pid 1860)
+Compiled application.css  (1873ms)  (pid 1860)
+Compiled jquery.js  (1ms)  (pid 1860)
+Compiled jquery_ujs.js  (0ms)  (pid 1860)
+Compiled bootstrap-transition.js  (0ms)  (pid 1860)
+Compiled bootstrap-affix.js  (0ms)  (pid 1860)
+Compiled bootstrap-alert.js  (0ms)  (pid 1860)
+Compiled bootstrap-button.js  (0ms)  (pid 1860)
+Compiled bootstrap-carousel.js  (0ms)  (pid 1860)
+Compiled bootstrap-collapse.js  (0ms)  (pid 1860)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 1860)
+Compiled bootstrap-modal.js  (0ms)  (pid 1860)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 1860)
+Compiled bootstrap-tab.js  (0ms)  (pid 1860)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 1860)
+Compiled bootstrap-popover.js  (0ms)  (pid 1860)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 1860)
+Compiled bootstrap.js  (102ms)  (pid 1860)
+Compiled sessions.js  (100ms)  (pid 1860)
+Compiled static_pages.js  (108ms)  (pid 1860)
+Compiled users.js  (106ms)  (pid 1860)
+Compiled application.js  (473ms)  (pid 1860)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Compiled custom.css  (1656ms)  (pid 1860)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Compiled prod_returns.css  (8ms)  (pid 1860)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Compiled sessions.css  (1ms)  (pid 1860)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Compiled static_pages.css  (1ms)  (pid 1860)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x00000002fdb5e0>
+Compiled users.css  (1ms)  (pid 1860)
+Compiled application.css  (1683ms)  (pid 1860)
+Compiled jquery.js  (1ms)  (pid 6717)
+Compiled jquery_ujs.js  (0ms)  (pid 6717)
+Compiled bootstrap-transition.js  (0ms)  (pid 6717)
+Compiled bootstrap-affix.js  (0ms)  (pid 6717)
+Compiled bootstrap-alert.js  (0ms)  (pid 6717)
+Compiled bootstrap-button.js  (0ms)  (pid 6717)
+Compiled bootstrap-carousel.js  (0ms)  (pid 6717)
+Compiled bootstrap-collapse.js  (0ms)  (pid 6717)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 6717)
+Compiled bootstrap-modal.js  (0ms)  (pid 6717)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 6717)
+Compiled bootstrap-tab.js  (0ms)  (pid 6717)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 6717)
+Compiled bootstrap-popover.js  (0ms)  (pid 6717)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 6717)
+Compiled bootstrap.js  (82ms)  (pid 6717)
+Compiled sessions.js  (309ms)  (pid 6717)
+Compiled static_pages.js  (113ms)  (pid 6717)
+Compiled users.js  (98ms)  (pid 6717)
+Compiled application.js  (679ms)  (pid 6717)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Compiled custom.css  (1426ms)  (pid 6717)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Compiled prod_returns.css  (10ms)  (pid 6717)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Compiled sessions.css  (1ms)  (pid 6717)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Compiled static_pages.css  (2ms)  (pid 6717)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x00000002010750>
+Compiled users.css  (1ms)  (pid 6717)
+Compiled application.css  (1596ms)  (pid 6717)
+Compiled jquery.js  (1ms)  (pid 6717)
+Compiled jquery_ujs.js  (0ms)  (pid 6717)
+Compiled bootstrap-transition.js  (0ms)  (pid 6717)
+Compiled bootstrap-affix.js  (0ms)  (pid 6717)
+Compiled bootstrap-alert.js  (0ms)  (pid 6717)
+Compiled bootstrap-button.js  (0ms)  (pid 6717)
+Compiled bootstrap-carousel.js  (0ms)  (pid 6717)
+Compiled bootstrap-collapse.js  (0ms)  (pid 6717)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 6717)
+Compiled bootstrap-modal.js  (0ms)  (pid 6717)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 6717)
+Compiled bootstrap-tab.js  (0ms)  (pid 6717)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 6717)
+Compiled bootstrap-popover.js  (0ms)  (pid 6717)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 6717)
+Compiled bootstrap.js  (79ms)  (pid 6717)
+Compiled sessions.js  (99ms)  (pid 6717)
+Compiled static_pages.js  (91ms)  (pid 6717)
+Compiled users.js  (112ms)  (pid 6717)
+Compiled application.js  (414ms)  (pid 6717)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Compiled custom.css  (1377ms)  (pid 6717)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Compiled prod_returns.css  (10ms)  (pid 6717)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Compiled sessions.css  (1ms)  (pid 6717)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Compiled static_pages.css  (1ms)  (pid 6717)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x00000002e1fa30>
+Compiled users.css  (1ms)  (pid 6717)
+Compiled application.css  (1438ms)  (pid 6717)
+Compiled jquery.js  (1ms)  (pid 6719)
+Compiled jquery_ujs.js  (0ms)  (pid 6719)
+Compiled bootstrap-transition.js  (0ms)  (pid 6719)
+Compiled bootstrap-affix.js  (0ms)  (pid 6719)
+Compiled bootstrap-alert.js  (0ms)  (pid 6719)
+Compiled bootstrap-button.js  (0ms)  (pid 6719)
+Compiled bootstrap-carousel.js  (0ms)  (pid 6719)
+Compiled bootstrap-collapse.js  (0ms)  (pid 6719)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 6719)
+Compiled bootstrap-modal.js  (0ms)  (pid 6719)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 6719)
+Compiled bootstrap-tab.js  (0ms)  (pid 6719)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 6719)
+Compiled bootstrap-popover.js  (0ms)  (pid 6719)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 6719)
+Compiled bootstrap.js  (87ms)  (pid 6719)
+Compiled checkboxes.js  (0ms)  (pid 6719)
+Compiled sessions.js  (356ms)  (pid 6719)
+Compiled static_pages.js  (110ms)  (pid 6719)
+Compiled users.js  (91ms)  (pid 6719)
+Compiled application.js  (689ms)  (pid 6719)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Compiled custom.css  (1523ms)  (pid 6719)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Compiled prod_returns.css  (13ms)  (pid 6719)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Compiled sessions.css  (1ms)  (pid 6719)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Compiled static_pages.css  (1ms)  (pid 6719)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x00000003294638>
+Compiled users.css  (1ms)  (pid 6719)
+Compiled application.css  (1628ms)  (pid 6719)
+Compiled jquery.js  (1ms)  (pid 6719)
+Compiled jquery_ujs.js  (0ms)  (pid 6719)
+Compiled bootstrap-transition.js  (0ms)  (pid 6719)
+Compiled bootstrap-affix.js  (0ms)  (pid 6719)
+Compiled bootstrap-alert.js  (0ms)  (pid 6719)
+Compiled bootstrap-button.js  (0ms)  (pid 6719)
+Compiled bootstrap-carousel.js  (0ms)  (pid 6719)
+Compiled bootstrap-collapse.js  (0ms)  (pid 6719)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 6719)
+Compiled bootstrap-modal.js  (0ms)  (pid 6719)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 6719)
+Compiled bootstrap-tab.js  (0ms)  (pid 6719)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 6719)
+Compiled bootstrap-popover.js  (0ms)  (pid 6719)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 6719)
+Compiled bootstrap.js  (104ms)  (pid 6719)
+Compiled checkboxes.js  (0ms)  (pid 6719)
+Compiled sessions.js  (85ms)  (pid 6719)
+Compiled static_pages.js  (94ms)  (pid 6719)
+Compiled users.js  (93ms)  (pid 6719)
+Compiled application.js  (431ms)  (pid 6719)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Compiled custom.css  (1452ms)  (pid 6719)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Compiled prod_returns.css  (12ms)  (pid 6719)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Compiled sessions.css  (2ms)  (pid 6719)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Compiled static_pages.css  (1ms)  (pid 6719)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x00000002c45e08>
+Compiled users.css  (1ms)  (pid 6719)
+Compiled application.css  (1488ms)  (pid 6719)
+Compiled jquery.js  (1ms)  (pid 9138)
+Compiled jquery_ujs.js  (0ms)  (pid 9138)
+Compiled bootstrap-transition.js  (0ms)  (pid 9138)
+Compiled bootstrap-affix.js  (0ms)  (pid 9138)
+Compiled bootstrap-alert.js  (0ms)  (pid 9138)
+Compiled bootstrap-button.js  (0ms)  (pid 9138)
+Compiled bootstrap-carousel.js  (0ms)  (pid 9138)
+Compiled bootstrap-collapse.js  (0ms)  (pid 9138)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 9138)
+Compiled bootstrap-modal.js  (0ms)  (pid 9138)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 9138)
+Compiled bootstrap-tab.js  (0ms)  (pid 9138)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 9138)
+Compiled bootstrap-popover.js  (0ms)  (pid 9138)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 9138)
+Compiled bootstrap.js  (157ms)  (pid 9138)
+Compiled checkboxes.js  (0ms)  (pid 9138)
+Compiled sessions.js  (389ms)  (pid 9138)
+Compiled static_pages.js  (118ms)  (pid 9138)
+Compiled users.js  (100ms)  (pid 9138)
+Compiled application.js  (881ms)  (pid 9138)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Compiled custom.css  (1554ms)  (pid 9138)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Compiled prod_returns.css  (17ms)  (pid 9138)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Compiled sessions.css  (1ms)  (pid 9138)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Compiled static_pages.css  (1ms)  (pid 9138)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x00000003ce36c0>
+Compiled users.css  (1ms)  (pid 9138)
+Compiled application.css  (1800ms)  (pid 9138)
+Compiled jquery.js  (1ms)  (pid 9138)
+Compiled jquery_ujs.js  (0ms)  (pid 9138)
+Compiled bootstrap-transition.js  (0ms)  (pid 9138)
+Compiled bootstrap-affix.js  (0ms)  (pid 9138)
+Compiled bootstrap-alert.js  (0ms)  (pid 9138)
+Compiled bootstrap-button.js  (0ms)  (pid 9138)
+Compiled bootstrap-carousel.js  (0ms)  (pid 9138)
+Compiled bootstrap-collapse.js  (0ms)  (pid 9138)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 9138)
+Compiled bootstrap-modal.js  (0ms)  (pid 9138)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 9138)
+Compiled bootstrap-tab.js  (0ms)  (pid 9138)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 9138)
+Compiled bootstrap-popover.js  (0ms)  (pid 9138)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 9138)
+Compiled bootstrap.js  (84ms)  (pid 9138)
+Compiled checkboxes.js  (0ms)  (pid 9138)
+Compiled sessions.js  (90ms)  (pid 9138)
+Compiled static_pages.js  (96ms)  (pid 9138)
+Compiled users.js  (114ms)  (pid 9138)
+Compiled application.js  (425ms)  (pid 9138)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Compiled custom.css  (1492ms)  (pid 9138)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Compiled prod_returns.css  (13ms)  (pid 9138)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Compiled sessions.css  (1ms)  (pid 9138)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Compiled static_pages.css  (1ms)  (pid 9138)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x0000000338a0b0>
+Compiled users.css  (1ms)  (pid 9138)
+Compiled application.css  (1525ms)  (pid 9138)
+Compiled jquery.js  (1ms)  (pid 20752)
+Compiled jquery_ujs.js  (0ms)  (pid 20752)
+Compiled bootstrap-transition.js  (0ms)  (pid 20752)
+Compiled bootstrap-affix.js  (0ms)  (pid 20752)
+Compiled bootstrap-alert.js  (0ms)  (pid 20752)
+Compiled bootstrap-button.js  (0ms)  (pid 20752)
+Compiled bootstrap-carousel.js  (0ms)  (pid 20752)
+Compiled bootstrap-collapse.js  (0ms)  (pid 20752)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 20752)
+Compiled bootstrap-modal.js  (0ms)  (pid 20752)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 20752)
+Compiled bootstrap-tab.js  (0ms)  (pid 20752)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 20752)
+Compiled bootstrap-popover.js  (0ms)  (pid 20752)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 20752)
+Compiled bootstrap.js  (64ms)  (pid 20752)
+Compiled checkboxes.js  (0ms)  (pid 20752)
+Compiled sessions.js  (297ms)  (pid 20752)
+Compiled static_pages.js  (83ms)  (pid 20752)
+Compiled tools_buttons.js  (0ms)  (pid 20752)
+Compiled users.js  (87ms)  (pid 20752)
+Compiled application.js  (625ms)  (pid 20752)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Compiled custom.css  (1384ms)  (pid 20752)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Compiled prod_returns.css  (14ms)  (pid 20752)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Compiled sessions.css  (1ms)  (pid 20752)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Compiled static_pages.css  (1ms)  (pid 20752)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x000000027dfa80>
+Compiled users.css  (1ms)  (pid 20752)
+Compiled application.css  (1417ms)  (pid 20752)
+Compiled jquery.js  (1ms)  (pid 20752)
+Compiled jquery_ujs.js  (0ms)  (pid 20752)
+Compiled bootstrap-transition.js  (0ms)  (pid 20752)
+Compiled bootstrap-affix.js  (0ms)  (pid 20752)
+Compiled bootstrap-alert.js  (0ms)  (pid 20752)
+Compiled bootstrap-button.js  (0ms)  (pid 20752)
+Compiled bootstrap-carousel.js  (0ms)  (pid 20752)
+Compiled bootstrap-collapse.js  (0ms)  (pid 20752)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 20752)
+Compiled bootstrap-modal.js  (0ms)  (pid 20752)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 20752)
+Compiled bootstrap-tab.js  (0ms)  (pid 20752)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 20752)
+Compiled bootstrap-popover.js  (0ms)  (pid 20752)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 20752)
+Compiled bootstrap.js  (77ms)  (pid 20752)
+Compiled checkboxes.js  (0ms)  (pid 20752)
+Compiled sessions.js  (84ms)  (pid 20752)
+Compiled static_pages.js  (108ms)  (pid 20752)
+Compiled tools_buttons.js  (0ms)  (pid 20752)
+Compiled users.js  (90ms)  (pid 20752)
+Compiled application.js  (401ms)  (pid 20752)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Compiled custom.css  (1353ms)  (pid 20752)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Compiled prod_returns.css  (14ms)  (pid 20752)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Compiled sessions.css  (1ms)  (pid 20752)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Compiled static_pages.css  (1ms)  (pid 20752)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x00000002dc0378>
+Compiled users.css  (1ms)  (pid 20752)
+Compiled application.css  (1386ms)  (pid 20752)
+Compiled jquery.js  (1ms)  (pid 7238)
+Compiled jquery_ujs.js  (0ms)  (pid 7238)
+Compiled bootstrap-transition.js  (0ms)  (pid 7238)
+Compiled bootstrap-affix.js  (0ms)  (pid 7238)
+Compiled bootstrap-alert.js  (0ms)  (pid 7238)
+Compiled bootstrap-button.js  (0ms)  (pid 7238)
+Compiled bootstrap-carousel.js  (0ms)  (pid 7238)
+Compiled bootstrap-collapse.js  (0ms)  (pid 7238)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 7238)
+Compiled bootstrap-modal.js  (0ms)  (pid 7238)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 7238)
+Compiled bootstrap-tab.js  (0ms)  (pid 7238)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 7238)
+Compiled bootstrap-popover.js  (0ms)  (pid 7238)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 7238)
+Compiled bootstrap.js  (74ms)  (pid 7238)
+Compiled checkboxes.js  (0ms)  (pid 7238)
+Compiled sessions.js  (93ms)  (pid 7238)
+Compiled static_pages.js  (100ms)  (pid 7238)
+Compiled tools_buttons.js  (0ms)  (pid 7238)
+Compiled users.js  (116ms)  (pid 7238)
+Compiled application.js  (479ms)  (pid 7238)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Compiled custom.css  (1535ms)  (pid 7238)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Compiled prod_returns.css  (16ms)  (pid 7238)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Compiled sessions.css  (1ms)  (pid 7238)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Compiled static_pages.css  (1ms)  (pid 7238)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x0000000274c5c8>
+Compiled users.css  (1ms)  (pid 7238)
+Compiled application.css  (1583ms)  (pid 7238)
+Compiled jquery.js  (1ms)  (pid 7238)
+Compiled jquery_ujs.js  (0ms)  (pid 7238)
+Compiled bootstrap-transition.js  (0ms)  (pid 7238)
+Compiled bootstrap-affix.js  (0ms)  (pid 7238)
+Compiled bootstrap-alert.js  (0ms)  (pid 7238)
+Compiled bootstrap-button.js  (0ms)  (pid 7238)
+Compiled bootstrap-carousel.js  (0ms)  (pid 7238)
+Compiled bootstrap-collapse.js  (0ms)  (pid 7238)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 7238)
+Compiled bootstrap-modal.js  (0ms)  (pid 7238)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 7238)
+Compiled bootstrap-tab.js  (0ms)  (pid 7238)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 7238)
+Compiled bootstrap-popover.js  (0ms)  (pid 7238)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 7238)
+Compiled bootstrap.js  (83ms)  (pid 7238)
+Compiled checkboxes.js  (0ms)  (pid 7238)
+Compiled sessions.js  (96ms)  (pid 7238)
+Compiled static_pages.js  (119ms)  (pid 7238)
+Compiled tools_buttons.js  (0ms)  (pid 7238)
+Compiled users.js  (95ms)  (pid 7238)
+Compiled application.js  (433ms)  (pid 7238)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Compiled custom.css  (1463ms)  (pid 7238)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Compiled prod_returns.css  (15ms)  (pid 7238)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Compiled sessions.css  (1ms)  (pid 7238)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Compiled static_pages.css  (1ms)  (pid 7238)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x00000001df9638>
+Compiled users.css  (1ms)  (pid 7238)
+Compiled application.css  (1498ms)  (pid 7238)
+Compiled jquery.js  (1ms)  (pid 2085)
+Compiled jquery_ujs.js  (0ms)  (pid 2085)
+Compiled bootstrap-transition.js  (0ms)  (pid 2085)
+Compiled bootstrap-affix.js  (0ms)  (pid 2085)
+Compiled bootstrap-alert.js  (0ms)  (pid 2085)
+Compiled bootstrap-button.js  (0ms)  (pid 2085)
+Compiled bootstrap-carousel.js  (0ms)  (pid 2085)
+Compiled bootstrap-collapse.js  (0ms)  (pid 2085)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 2085)
+Compiled bootstrap-modal.js  (0ms)  (pid 2085)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 2085)
+Compiled bootstrap-tab.js  (0ms)  (pid 2085)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 2085)
+Compiled bootstrap-popover.js  (0ms)  (pid 2085)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 2085)
+Compiled bootstrap.js  (64ms)  (pid 2085)
+Compiled checkboxes.js  (0ms)  (pid 2085)
+Compiled sessions.js  (274ms)  (pid 2085)
+Compiled static_pages.js  (91ms)  (pid 2085)
+Compiled tools_buttons.js  (0ms)  (pid 2085)
+Compiled users.js  (94ms)  (pid 2085)
+Compiled application.js  (679ms)  (pid 2085)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Compiled custom.css  (1477ms)  (pid 2085)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Compiled prod_returns.css  (18ms)  (pid 2085)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Compiled sessions.css  (1ms)  (pid 2085)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Compiled static_pages.css  (1ms)  (pid 2085)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x00000001c7be78>
+Compiled users.css  (1ms)  (pid 2085)
+Compiled application.css  (1551ms)  (pid 2085)
+Compiled jquery.js  (1ms)  (pid 2085)
+Compiled jquery_ujs.js  (0ms)  (pid 2085)
+Compiled bootstrap-transition.js  (17ms)  (pid 2085)
+Compiled bootstrap-affix.js  (0ms)  (pid 2085)
+Compiled bootstrap-alert.js  (0ms)  (pid 2085)
+Compiled bootstrap-button.js  (0ms)  (pid 2085)
+Compiled bootstrap-carousel.js  (0ms)  (pid 2085)
+Compiled bootstrap-collapse.js  (0ms)  (pid 2085)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 2085)
+Compiled bootstrap-modal.js  (0ms)  (pid 2085)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 2085)
+Compiled bootstrap-tab.js  (0ms)  (pid 2085)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 2085)
+Compiled bootstrap-popover.js  (0ms)  (pid 2085)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 2085)
+Compiled bootstrap.js  (77ms)  (pid 2085)
+Compiled checkboxes.js  (0ms)  (pid 2085)
+Compiled sessions.js  (91ms)  (pid 2085)
+Compiled static_pages.js  (112ms)  (pid 2085)
+Compiled tools_buttons.js  (0ms)  (pid 2085)
+Compiled users.js  (96ms)  (pid 2085)
+Compiled application.js  (417ms)  (pid 2085)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Compiled custom.css  (1349ms)  (pid 2085)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Compiled prod_returns.css  (21ms)  (pid 2085)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Compiled sessions.css  (1ms)  (pid 2085)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Compiled static_pages.css  (1ms)  (pid 2085)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x00000002c500d8>
+Compiled users.css  (1ms)  (pid 2085)
+Compiled application.css  (1389ms)  (pid 2085)
+Compiled jquery.js  (20ms)  (pid 2340)
+Compiled jquery_ujs.js  (0ms)  (pid 2340)
+Compiled bootstrap-transition.js  (0ms)  (pid 2340)
+Compiled bootstrap-affix.js  (0ms)  (pid 2340)
+Compiled bootstrap-alert.js  (0ms)  (pid 2340)
+Compiled bootstrap-button.js  (0ms)  (pid 2340)
+Compiled bootstrap-carousel.js  (0ms)  (pid 2340)
+Compiled bootstrap-collapse.js  (0ms)  (pid 2340)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 2340)
+Compiled bootstrap-modal.js  (0ms)  (pid 2340)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 2340)
+Compiled bootstrap-tab.js  (0ms)  (pid 2340)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 2340)
+Compiled bootstrap-popover.js  (0ms)  (pid 2340)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 2340)
+Compiled bootstrap.js  (63ms)  (pid 2340)
+Compiled checkboxes.js  (0ms)  (pid 2340)
+Compiled sessions.js  (268ms)  (pid 2340)
+Compiled static_pages.js  (93ms)  (pid 2340)
+Compiled tools_buttons.js  (0ms)  (pid 2340)
+Compiled users.js  (92ms)  (pid 2340)
+Compiled application.js  (629ms)  (pid 2340)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Compiled custom.css  (1427ms)  (pid 2340)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Compiled prod_returns.css  (18ms)  (pid 2340)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Compiled sessions.css  (1ms)  (pid 2340)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Compiled static_pages.css  (1ms)  (pid 2340)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x000000033cf3e0>
+Compiled users.css  (1ms)  (pid 2340)
+Compiled application.css  (1517ms)  (pid 2340)
+Compiled jquery.js  (20ms)  (pid 2340)
+Compiled jquery_ujs.js  (0ms)  (pid 2340)
+Compiled bootstrap-transition.js  (0ms)  (pid 2340)
+Compiled bootstrap-affix.js  (0ms)  (pid 2340)
+Compiled bootstrap-alert.js  (0ms)  (pid 2340)
+Compiled bootstrap-button.js  (0ms)  (pid 2340)
+Compiled bootstrap-carousel.js  (0ms)  (pid 2340)
+Compiled bootstrap-collapse.js  (0ms)  (pid 2340)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 2340)
+Compiled bootstrap-modal.js  (0ms)  (pid 2340)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 2340)
+Compiled bootstrap-tab.js  (0ms)  (pid 2340)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 2340)
+Compiled bootstrap-popover.js  (0ms)  (pid 2340)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 2340)
+Compiled bootstrap.js  (59ms)  (pid 2340)
+Compiled checkboxes.js  (0ms)  (pid 2340)
+Compiled sessions.js  (110ms)  (pid 2340)
+Compiled static_pages.js  (92ms)  (pid 2340)
+Compiled tools_buttons.js  (0ms)  (pid 2340)
+Compiled users.js  (91ms)  (pid 2340)
+Compiled application.js  (413ms)  (pid 2340)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/custom.css.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/0104be9b8bd68ed923f0ed5def7bbe13690428ab/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_variables.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_mixins.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_reset.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_grid.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_layouts.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_type.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_code.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_forms.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tables.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_sprites.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_wells.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_component-animations.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_close.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_buttons.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_button-groups.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_alerts.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navs.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_navbar.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pagination.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_pager.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_modals.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_tooltip.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_popovers.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_accordion.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_carousel.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/2cba2b3e8971d2e01f716ee81aed920d522c0d51/_utilities.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Compiled custom.css  (1419ms)  (pid 2340)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/prod_returns.css.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Compiled prod_returns.css  (18ms)  (pid 2340)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/sessions.css.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Compiled sessions.css  (1ms)  (pid 2340)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/static_pages.css.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Compiled static_pages.css  (1ms)  (pid 2340)
+Warning. Error encountered while saving cache /home/lech/work/rails/lim-house/tmp/cache/sass/6d7f8a38feecc6bdbc9e5353c8a1427113b8fb3e/users.css.scssc: can't dump anonymous class #<Class:0x00000002af19d0>
+Compiled users.css  (1ms)  (pid 2340)
+Compiled application.css  (1455ms)  (pid 2340)

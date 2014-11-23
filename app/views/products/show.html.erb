@@ -1,0 +1,27 @@
+<% provide(:title, "#{@prod.title}") %>
+
+<h2> Product info page </h2>
+<h3> Produkt: <%= @prod.title %> </h3>
+<br>
+<section>
+	<div class="row">
+		<div class="span4">
+			<div class="image-container">
+				<%= image_tag image_link_for(@prod)%><br>
+				Cena: <%= @prod.price %><br>
+				Status: <%= ProductsHelper::Product_status.key(@prod.status) %><br>
+				Ilość: <%= @prod.quantity %><br>
+				<%= link_to "Edit", edit_product_path(@prod) %> | 
+				<%= link_to 'Delete', @prod, method: :delete, confirm: "You sure?" %>
+			</div>
+		</div>
+		<div class="span8">
+			<aside>
+				Opis: 
+				<section class ="center">
+					<%= simple_format(@prod.description) %><br>
+				</section>
+			</aside>	
+		</div>
+	</div>
+</section>

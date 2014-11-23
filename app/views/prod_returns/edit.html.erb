@@ -1,0 +1,40 @@
+<% provide(:title,'Edytuj zwrot') %>
+<h3 class="center">Edytuj zwrot</h3>
+<div class="row">
+	<%= form_for @ret, :html => { :multipart => true } do |f| %>
+	<div class="offset1 span5">
+		<div class="input-group">
+			<span >Tytuł aukcji: </span>
+			<%= f.text_field :auction_name %>
+		</div>
+		<div class="input-group date">
+			<span >Data transakcji: </span>
+			<%= select_date Date.today, prefix: :auction_date %>
+		</div>
+		<div class="input-group">
+			<span >Klient: </span>
+			<%= f.text_field :client_name %>
+		</div>
+		<div class="input-group right">
+			<span >Wiadomość od klienta: </span>
+			<%= f.text_area :client_msg, :rows => 7, :style => 'width: 100%' %>
+		</div>
+	</div>
+		<div class="offset1 span10">
+			<div class="row">
+				<h5 class="center"> <%= "Załączniki:" if !@ret.prattachments.length %> </h5>
+				<div id="files"><%= render partial:'prod_returns/attachments', collection:@ret.prattachments %></div>
+			</div>
+			<div class="row">
+				<br>
+				<h5>Dodaj załącznik:</h5>
+				<%= file_field_tag "files[]", type: :file, multiple: true %>
+			</div>
+		<br><br>
+		<div input-group>
+			<span class="input-group-btn "> <%= submit_tag "Gotowe", class:"btn btn-success"  %> </span>
+		</div>
+		</div>
+	<% end %>
+
+</div>
