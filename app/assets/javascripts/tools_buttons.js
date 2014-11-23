@@ -37,20 +37,6 @@ $(document).ready( function(){
 	});
 });
 
-$(document).ready( function() {
-	$('#tools_delete_att').click( function(){
-		console.log( "att" );
-		var ids = [];
-		var chbx = $('.active input[id^="chbx_"]').filter(':checked');
-		chbx.each( function(index) {
-			ids.push($(this).prop("id"));
-		});
-		$('.tools').prop('hidden', true);
-		hide_search_results();
-		$.post('/prod_returns/group_delete_att',{id:ids});
-	});
-});
-
 $(document).ready(function(){
 	$('#tools_search').click( function(){
 		if ($('.search_field').prop('hidden')==true) {
@@ -70,11 +56,4 @@ $(document).on('click','[id^="delete_att"]', function(){
 });
 $(document).on("mouseenter mouseleave",'.file', function(){
 	$(this).find('[id^="delete_att"]').toggle();
-});
-
-
-$(document).ready(function(){
-	$('#btn_backup').click(function(){
-		$.post('/prod_returns/send_backup');
-	});
 });
