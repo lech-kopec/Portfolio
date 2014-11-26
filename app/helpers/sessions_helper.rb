@@ -1,10 +1,8 @@
 module SessionsHelper
 	def signed_in_user
-=begin
 		unless signed_in?
 			redirect_to signin_path, notice:"Please sign in"  
 		end
-=end
 	end
 
 	def sign_in(user)
@@ -19,8 +17,7 @@ module SessionsHelper
 		@current_user ||= User.find_by_remember_token(cookies[:remember_token])
 	end
 	def signed_in?
-		#!current_user.nil?
-		true
+		!current_user.nil?
 	end
 
 	def sign_out
