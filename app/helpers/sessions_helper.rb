@@ -1,8 +1,11 @@
 module SessionsHelper
 	def signed_in_user
+		true
+=begin
 		unless signed_in?
 			redirect_to signin_path, notice:"Please sign in"  
 		end
+=end
 	end
 
 	def sign_in(user)
